@@ -14,11 +14,11 @@
 
 **[Space Force](https://space-force-game.netlify.app/)**
 
-Front-End Project using Javascript, PhaserJS, JavaScript State Machine, and Bootstrap for [Mintbean.io](https://mintbean.io/) Hiring Hackathon
+Full-Stack Project for [Mintbean.io](https://mintbean.io/) Hiring Hackathon
 
-Game built using PhaserJS library in conjunction with JavaScript State Machine library.
+Front End Technologies: JavaScript, PhaserJS, JavaScript State Machine, Bootstrap
 
-Used modern JavaScript Syntax with classes and custom objects for game logic
+Back-End Technologies: Python, Flask, PostgreSQL, SQLAlchemy
 
 [**Card Wars**](https://card-wars.netlify.app/)
 
