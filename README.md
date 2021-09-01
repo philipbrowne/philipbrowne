@@ -24,7 +24,7 @@ Back-End Technologies: Python, Flask, PostgreSQL, SQLAlchemy
 
 Front-End Collaborative Project using JavaScript, Bootstrap, jQuery, ViteJS, and NPM for [Mintbean.io](https://mintbean.io/) Hiring Hackathon.
 
-Winner of the Mintbean Star Award for "exemplary achievement in the field of web development"
+Winner of Mintbean Star Award for "exemplary achievement in the field of web development"
 
 Utilized jQuery in conjunction with Bootstrap to create DRY code.
 
