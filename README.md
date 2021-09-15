@@ -16,6 +16,8 @@
 
 Full-Stack Project for [Mintbean.io](https://mintbean.io/) Hiring Hackathon
 
+Mintbean Star Award Winner for "exemplary achievement in the field of web development"
+
 Front End Technologies: JavaScript, PhaserJS, JavaScript State Machine, Bootstrap
 
 Back-End Technologies: Python, Flask, PostgreSQL, SQLAlchemy
@@ -24,7 +26,7 @@ Back-End Technologies: Python, Flask, PostgreSQL, SQLAlchemy
 
 Front-End Collaborative Project using JavaScript, Bootstrap, jQuery, ViteJS, and NPM for [Mintbean.io](https://mintbean.io/) Hiring Hackathon.
 
-Winner of Mintbean Star Award for "exemplary achievement in the field of web development"
+Mintbean Star Award Winner for "exemplary achievement in the field of web development"
 
 Utilized jQuery in conjunction with Bootstrap to create DRY code.
 
