@@ -12,14 +12,13 @@
 
 ## RECENT PROJECTS:
 
-**[Voter Info](https:/www.voter-info.org/)**
+**[Voter Info](https://www.voter-info.org)**
 
 Full-Stack Voter Information Application using Google Civic Information, EasyPost, and MapQuest APIs
 
 Front End Technologies: JavaScript, jQuery, Axios, AJAX, Bootstrap
 
 Back-End Technologies: Python, Flask, Bcrypt, PostgreSQL, SQLAlchemy
-
 
 **[Space Force](https://space-force-game.netlify.app/)**
 
@@ -31,7 +30,7 @@ Front End Technologies: JavaScript, PhaserJS, JavaScript State Machine, Bootstra
 
 Back-End Technologies: Python, Flask, PostgreSQL, SQLAlchemy
 
-[**Card Wars**](https://card-wars.netlify.app/)
+**[Card Wars](https://card-wars.netlify.app/)**
 
 Front-End Collaborative Project using JavaScript, Bootstrap, jQuery, ViteJS, and NPM for [Mintbean.io](https://mintbean.io/) Hiring Hackathon.
 
