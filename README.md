@@ -12,7 +12,7 @@
 
 ## RECENT PROJECTS:
 
-**[Voter Info](https:/www.voter-info.org)**
+**[Voter Info](https:/www.voter-info.org/)**
 
 Full-Stack Voter Information Application using Google Civic Information, EasyPost, and MapQuest APIs
 
