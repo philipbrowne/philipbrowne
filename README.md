@@ -2,7 +2,7 @@
 
 ## TECHNICAL SKILLS:
 
-**Front End:** JavaScript, AJAX, HTML5, CSS, Responsive Design, Bootstrap, jQuery, PhaserJS, WordPress
+**Front End:** JavaScript, React, AJAX, HTML5, CSS, Responsive Design, Bootstrap, jQuery, PhaserJS, WordPress, Game Development
 
 **Back End:** Python, Flask, SQL, PostgreSQL, SQLAlchemy, RESTful API Development
 
