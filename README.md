@@ -12,6 +12,15 @@
 
 ## RECENT PROJECTS:
 
+**[Voter Info](https:/www.voter-info.org)**
+
+Full-Stack Voter Information Application using Google Civic Information, EasyPost, and MapQuest APIs
+
+Front End Technologies: JavaScript, jQuery, Axios, AJAX, Bootstrap
+
+Back-End Technologies: Python, Flask, Bcrypt, PostgreSQL, SQLAlchemy
+
+
 **[Space Force](https://space-force-game.netlify.app/)**
 
 Full-Stack Project for [Mintbean.io](https://mintbean.io/) Hiring Hackathon
@@ -36,5 +45,4 @@ Utilized jQuery in conjunction with Bootstrap to create DRY code.
 
 **LinkedIn:** https://www.linkedin.com/in/philbrownetech/
 
-**Resume:** https://philipbrowne.github.io/resume/ 
 
