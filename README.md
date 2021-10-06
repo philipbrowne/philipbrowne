@@ -4,7 +4,7 @@
 
 **Front End:** JavaScript, React, AJAX, HTML5, CSS, Responsive Design, Bootstrap, jQuery, PhaserJS, WordPress, Game Development
 
-**Back End:** Node.js, Python, Flask, SQL, PostgreSQL, SQLAlchemy, RESTful API Development
+**Back End:** Node.js, Express.js, Python, Flask, SQL, PostgreSQL, SQLAlchemy, RESTful API Development
 
 **Other**: Test Driven Development, Jasmine Testing Framework, Git, GitHub, Linux Terminal
 
