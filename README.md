@@ -6,7 +6,7 @@
 
 **Back End:** Node.js, Express.js, Python, Flask, SQL, PostgreSQL, SQLAlchemy, RESTful API Development
 
-**Other**: Test Driven Development, Jasmine Testing Framework, Git, GitHub, Linux Terminal
+**Other**: Test Driven Development, Git, GitHub, Linux Terminal
 
 ![Phil Browne's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipbrowne&show_icons=true&theme=tokyonight)
 
