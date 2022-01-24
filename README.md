@@ -1,4 +1,6 @@
-# PHILIP BROWNE
+# Philip Browne
+
+Software Engineer based in Washington, DC area.
 
 ## TECHNICAL SKILLS:
 
