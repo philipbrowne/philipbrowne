@@ -27,6 +27,10 @@ Front End Technologies: JavaScript, jQuery, Axios, AJAX, Bootstrap
 
 Back-End Technologies: Python, Flask, Bcrypt, PostgreSQL, SQLAlchemy
 
+Repository: https://github.com/philipbrowne/us-voter-info
+
+Deployment: https://www.voter-info.org
+
 ## PAGES:
 
 **Website:** https://www.philbrowne.com
