@@ -2,11 +2,16 @@
 
 ## TECHNICAL SKILLS:
 
-**Front End:** JavaScript, React, AJAX, HTML5, CSS, Responsive Design, Bootstrap, jQuery, PhaserJS, WordPress, Game Development
+**Languages:** HTML5, CSS, JavaScript, Python, Go/Golang
 
-**Back End:** Node.js, Express.js, Python, Flask, SQL, PostgreSQL, SQLAlchemy, RESTful API Development
+**Libraries and Frameworks:** Bootstrap, jQuery, React.js, Node.js, Express.js, Flask, REST, GraphQL, gRPC, Selenium
 
-**Other**: Test Driven Development (Jasmine, Jest, React Test Library), Git, GitHub, Linux Terminal
+**Databases:** SQL (PostgreSQL, SQLite, MySQL), MongoDB, ElasticSearch, Neo4j, DynamoDB
+
+**Testing:** Jasmine, Jest, React Test Library, PyTest
+
+**Deployment and CI/CD:** Docker, Kubernetes, AWS, Jenkins, GitHub, GitLab
+
 
 ![Phil Browne's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipbrowne&show_icons=true&theme=tokyonight)
 
@@ -19,24 +24,6 @@ Full-Stack Voter Information Application using Google Civic Information, EasyPos
 Front End Technologies: JavaScript, jQuery, Axios, AJAX, Bootstrap
 
 Back-End Technologies: Python, Flask, Bcrypt, PostgreSQL, SQLAlchemy
-
-**[Space Force](https://space-force-game.netlify.app/)**
-
-Full-Stack Project for [Mintbean.io](https://mintbean.io/) Hiring Hackathon
-
-Mintbean Star Award Winner for "exemplary achievement in the field of web development"
-
-Front End Technologies: JavaScript, PhaserJS, JavaScript State Machine, Bootstrap
-
-Back-End Technologies: Python, Flask, PostgreSQL, SQLAlchemy
-
-**[Card Wars](https://card-wars.netlify.app/)**
-
-Front-End Collaborative Project using JavaScript, Bootstrap, jQuery, ViteJS, and NPM for [Mintbean.io](https://mintbean.io/) Hiring Hackathon.
-
-Mintbean Star Award Winner for "exemplary achievement in the field of web development"
-
-Utilized jQuery in conjunction with Bootstrap to create DRY code.
 
 ## PAGES:
 
