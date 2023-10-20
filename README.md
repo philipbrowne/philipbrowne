@@ -4,39 +4,14 @@ Software Engineer based in Washington, DC area.
 
 ## TECHNICAL SKILLS:
 
-**Languages:** HTML5, CSS, JavaScript, Python, Go/Golang
+**Languages:** Go/Golang, JavaScript, Typescript, Python, C#, HTML5, CSS3
 
-**Libraries and Frameworks:** Bootstrap, jQuery, React.js, Node.js, Express.js, Flask, REST, GraphQL, gRPC, Selenium
+**Libraries and Frameworks:** React.js, Next.js, Vue.js, Nuxt.js, Bootstrap, TailwindCSS, Flask, Django, Echo, Gin
 
-**Databases:** SQL (PostgreSQL, SQLite, MySQL), MongoDB, ElasticSearch, Neo4j, DynamoDB
+**Databases:** MongoDB, SQL, PostgreSQL, SQLite, MySQL, ElasticSearch, Neo4J, Redis
 
-**Testing:** Jasmine, Jest, React Test Library, PyTest
+**Cloud Providers:** AWS, Azure, Google Cloud, Oracle Cloud, Digital Ocean
 
-**Deployment and CI/CD:** Docker, Kubernetes, AWS, Jenkins, GitHub, GitLab
+**Testing:** Jasmine, Jest, Mocha, Testify, React Testing Library, PyUnit
 
-
-![Phil Browne's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipbrowne&show_icons=true&theme=tokyonight)
-
-## RECENT PROJECTS:
-
-**[Voter Info](https://www.voter-info.org)**
-
-Full-Stack Voter Information Application using Google Civic Information, EasyPost, and MapQuest APIs
-
-Front End Technologies: JavaScript, jQuery, Axios, AJAX, Bootstrap
-
-Back-End Technologies: Python, Flask, Bcrypt, PostgreSQL, SQLAlchemy
-
-Repository: https://github.com/philipbrowne/us-voter-info
-
-Deployment: https://www.voter-info.org
-
-## PAGES:
-
-**Website:** https://www.philbrowne.com
-
-**GitHub:** https://github.com/philipbrowne
-
-**LinkedIn:** https://www.linkedin.com/in/philbrownetech/
-
-
+**Deployment, CI/CD, and Other Technologies:** Docker, Kubernetes, Helm, Tilt, Protocol Buffers, gRPC, gRPC Gateway, NATS Jetstream, RabbitMQ, Pagerduty, OpsGenie, Jenkins, Prometheus, Grafana, OpenTelemetry, Heroku, Netlify, Git, GitHub, GitLab, Jira, Linux Terminal, Selenium WebDriver, PhaserJS, SQLAlchemy, GORM, Twilio, Sendgrid, Zerolog, Cloudflare, Agile Methodologies, OpenAPI, Figma, RESTful API Development
