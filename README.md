@@ -1,17 +1,32 @@
 # Philip Browne
 
-Software Engineer based in Washington, DC area.
+**Senior Software Engineer at [Megaport](https://www.megaport.com/)** specializing in Infrastructure as Code, cloud automation, and developer tooling.
 
-## TECHNICAL SKILLS:
+## Highlights
 
-**Languages:** Go/Golang, JavaScript, Typescript, Python, C#, HTML5, CSS3
+- 🏆 **2024 Megaport Engineering Team Award** recipient for work on the Terraform Provider
+- 🌐 Primary maintainer of the [Megaport Terraform Provider](https://registry.terraform.io/providers/megaport/megaport/latest) (~1.7M downloads/year)
+- 📚 Primary maintainer of the [Megaport Go SDK](https://github.com/megaport/megaportgo)
+- 🛠️ Creator of the [Megaport CLI](https://github.com/megaport/megaport-cli)
 
-**Libraries and Frameworks:** React.js, Next.js, Vue.js, Nuxt.js, Bootstrap, TailwindCSS, Flask, Django, Echo, Gin
+## What I Build
 
-**Databases:** MongoDB, SQL, PostgreSQL, SQLite, MySQL, ElasticSearch, Neo4J, Redis
+I design and build cloud infrastructure tools, SDKs, and microservices that help teams automate at scale. My work focuses on:
 
-**Cloud Providers:** AWS, Azure, Google Cloud, Oracle Cloud, Digital Ocean
+- **Infrastructure as Code** — Terraform providers, Go SDKs, and CLI tools
+- **Cloud Orchestration** — Multi-cloud connectivity across AWS, Azure, GCP, and Oracle Cloud
+- **Microservices** — Go-based services using gRPC, NATS Jetstream, and Kubernetes
+- **Frontend Development** — Modern web apps with React, Next.js, Vue, and Nuxt, styled with TailwindCSS
 
-**Testing:** Jasmine, Jest, Mocha, Testify, React Testing Library, PyUnit
+## Tech Stack
 
-**Deployment, CI/CD, and Other Technologies:** Docker, Kubernetes, Helm, Tilt, Protocol Buffers, gRPC, gRPC Gateway, NATS Jetstream, RabbitMQ, Pagerduty, OpsGenie, Jenkins, Prometheus, Grafana, OpenTelemetry, Heroku, Netlify, Git, GitHub, GitLab, Jira, Linux Terminal, Selenium WebDriver, PhaserJS, SQLAlchemy, GORM, Twilio, Sendgrid, Zerolog, Cloudflare, Agile Methodologies, OpenAPI, Figma, RESTful API Development
+**Languages:** Go, TypeScript, Python  
+**Frontend:** React, Next.js, Vue, Nuxt, TailwindCSS  
+**Infrastructure:** Terraform, Kubernetes, Helm, Docker  
+**Cloud:** AWS, Azure, GCP, Oracle Cloud  
+**Backend:** gRPC, REST, NATS Jetstream, Redis, PostgreSQL, MongoDB
+
+## Get in Touch
+
+- 💼 [LinkedIn](https://linkedin.com/in/philbrownetech)
+- 🌐 [philbrowne.com](https://philbrowne.com)
